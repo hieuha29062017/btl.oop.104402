@@ -4,5 +4,5 @@ public class Entity {
 	protected String identify;
 	protected String name;
 	protected String description;
-	protected String source;
+	protected Source source;
 }
