@@ -40,33 +40,23 @@ public class GeneratePerson implements IGenerateData {
 		}
 	}
 	
-	public Entity generateData() {
-		Random rand = new Random();				
-		Person ps = new Person();
-		
+	public Entity generateData(int idNumber) {
+		Random rand = new Random();	
+
 		int pos = rand.nextInt(listPersonName.size());
-		ps.setName(listPersonName.get(pos));
+		String name = listPersonName.get(pos);
 		
 		pos = rand.nextInt(listDescription.size());
-		ps.setDescription(listDescription.get(pos));
+		String des = listDescription.get(pos);
 		
 		pos = rand.nextInt(listSource.size());
-		ps.setSource(listSource.get(pos));
+		Source src = listSource.get(pos);
 		
-		return ps;
-	}
-public static void main(String[] args) {
-	try{
-		GeneratePerson ps = new GeneratePerson();
-		Person pes = (Person)ps.generateData();
+		String id = name.replaceAll(" ", "_");
+		id = id + "_" + Integer.toString(idNumber, 8);		
 		
-		System.out.println(pes.getName());
-		System.out.println(pes.getDes());
-		System.out.println(pes.getSource().getLink());
-		System.out.println(pes.getSource().getDate());
-	}
-	catch(IOException ex){
+		Person person = new Person(id, name, des, src);
 		
+		return person;
 	}
-}
 }
