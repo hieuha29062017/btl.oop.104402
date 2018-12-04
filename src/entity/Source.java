@@ -20,11 +20,11 @@ public class Source {
 	}
 	
 	public String getLink(){
-		return link;
+		return this.link;
 	}
 
 	public Date getDate() {
-		return date;
+		return this.date;
 	}
 
 	public void setDate(Date date) {

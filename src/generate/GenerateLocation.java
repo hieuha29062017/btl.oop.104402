@@ -1,5 +1,6 @@
 package generate;
 
+<<<<<<< HEAD
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -42,6 +43,15 @@ public class GenerateLocation implements IGenerateData {
 					inputStream.close();
 			}
 		}
+=======
+import entity.Entity;
+
+public class GenerateLocation implements IGenerateData {
+
+	public Entity generateData(int idNumber) {
+		return null;
+		// TODO Auto-generated method stub
+>>>>>>> 8e2f8a84bff6cdd9756cf71054607df7ca458a50
 
 		public Entity generateData() {
 			Random rand = new Random();				
