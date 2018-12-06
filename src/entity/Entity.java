@@ -19,4 +19,20 @@ public class Entity {
 		this.description = "unknown";
 		this.source = new Source("unknown");
 	}
+	
+	public String getID(){
+		return this.identify;
+	}
+	
+	public String getName(){
+		return this.name;
+	}
+	
+	public String getDes(){
+		return this.description;
+	}
+	
+	public Source getSource(){
+		return this.source;
+	}
 }

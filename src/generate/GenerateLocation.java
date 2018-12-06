@@ -59,7 +59,6 @@ public class GenerateLocation implements IGenerateData {
 		
 		return lct;	
 	}
-
 }
 
 
