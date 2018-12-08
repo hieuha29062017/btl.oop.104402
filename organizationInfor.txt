@@ -1,0 +1,161 @@
+﻿Apple
+Alphabet
+Google
+Amazon
+Tencent
+Berkshire Hathaway
+Alibaba
+Facebook
+JPMorgan Chase
+Johnson & Johnson
+ICBC
+Exxon Mobil
+Bank of America
+Samsung Electronics
+Royal Dutch Shell
+Walmart
+China Construction Bank
+Wells Fargo
+Nestle
+Visa
+Ford
+BP
+Boeing
+Siemens
+Eni
+IBM
+Costo
+Sony
+Dell
+Vaio
+Asus
+Honda
+Yamaha
+Toyota
+Acer
+Toshiba
+Microsoft
+Anel
+Banco
+Huyndai
+Hitachi
+Comthem
+Petromax
+Nissan
+Saic
+Kukol
+Konel
+Hashki
+Sarakima
+Lovol
+Levil
+Stom
+Charki
+Saff
+Yogi
+Rez
+Sarin
+Koff
+-1
+là tập đoàn công nghệ máy tính của Mỹ có trụ sở đặt tại California, thành lập năm 1984
+là tập đoàn công nghệ máy tính của Anh có trụ sở đặt tại London, thành lập năm 1975
+là tập đoàn công nghệ máy tính của Pháp có trụ sở đặt tại Paris, thành lập năm 1987
+là tập đoàn công nghệ máy tính của Đức có trụ sở đặt tại Berlin, thành lập năm 1976
+là tập đoàn công nghệ máy tính của Ý có trụ sở đặt tại Roma, thành lập năm 1954
+là tập đoàn công nghệ máy tính của Nhật có trụ sở đặt tại Tokyo, thành lập năm 1967
+là tập đoàn công nghệ máy tính của Viêt Nam có trụ sở đặt tại Hà Nội, thành lập năm 1934
+là tập đoàn công nghệ máy tính của Canada có trụ sở đặt tại Ottawa, thành lập năm 1954
+là tập đoàn công nghệ máy tính của Trung Quốc có trụ sở đặt tại Bắc Kinh, thành lập năm 1983
+là tập đoàn thực phẩm của Mỹ có trụ sở đặt tại California, thành lập năm 1984
+là tập đoàn thực phẩm của Anh có trụ sở đặt tại London, thành lập năm 1975
+là tập đoàn thực phẩm của Pháp có trụ sở đặt tại Paris, thành lập năm 1987
+là tập đoàn thực phẩm của Đức có trụ sở đặt tại Berlin, thành lập năm 1976
+là tập đoàn thực phẩm của Ý có trụ sở đặt tại Roma, thành lập năm 1954
+là tập đoàn thực phẩm của Nhật có trụ sở đặt tại Tokyo, thành lập năm 1967
+là tập đoàn thực phẩm của Viêt Nam có trụ sở đặt tại Hà Nội, thành lập năm 1934
+là tập đoàn thực phẩm của Canada có trụ sở đặt tại Ottawa, thành lập năm 1954
+là tập đoàn thực phẩm của Trung Quốc có trụ sở đặt tại Bắc Kinh, thành lập năm 1983
+là tập đoàn kinh doanh linh kiện của Mỹ có trụ sở đặt tại California, thành lập năm 1984
+là tập đoàn kinh doanh linh kiện của Anh có trụ sở đặt tại London, thành lập năm 1975
+là tập đoàn kinh doanh linh kiện của Pháp có trụ sở đặt tại Paris, thành lập năm 1987
+là tập đoàn kinh doanh linh kiện của Đức có trụ sở đặt tại Berlin, thành lập năm 1976
+là tập đoàn kinh doanh linh kiện của Ý có trụ sở đặt tại Roma, thành lập năm 1954
+là tập đoàn kinh doanh linh kiện của Nhật có trụ sở đặt tại Tokyo, thành lập năm 1967
+là tập đoàn kinh doanh linh kiện của Viêt Nam có trụ sở đặt tại Hà Nội, thành lập năm 1934
+là tập đoàn kinh doanh linh kiện của Canada có trụ sở đặt tại Ottawa, thành lập năm 1954
+là tập đoàn kinh doanh linh kiện của Trung Quốc có trụ sở đặt tại Bắc Kinh, thành lập năm 1983
+là tập đoàn dầu khí của Mỹ có trụ sở đặt tại California, thành lập năm 1984
+là tập đoàn dầu khí của Anh có trụ sở đặt tại London, thành lập năm 1975
+là tập đoàn dầu khí của Pháp có trụ sở đặt tại Paris, thành lập năm 1987
+là tập đoàn dầu khí của Đức có trụ sở đặt tại Berlin, thành lập năm 1976
+là tập đoàn dầu khí của Ý có trụ sở đặt tại Roma, thành lập năm 1954
+là tập đoàn dầu khí của Nhật có trụ sở đặt tại Tokyo, thành lập năm 1967
+là tập đoàn dầu khí của Viêt Nam có trụ sở đặt tại Hà Nội, thành lập năm 1934
+là tập đoàn dầu khí của Canada có trụ sở đặt tại Ottawa, thành lập năm 1954
+là tập đoàn dầu khí của Trung Quốc có trụ sở đặt tại Bắc Kinh, thành lập năm 1983
+là tập đoàn bán lẻ của Mỹ có trụ sở đặt tại California, thành lập năm 1984
+là tập đoàn bán lẻ của Anh có trụ sở đặt tại London, thành lập năm 1975
+là tập đoàn bán lẻ của Pháp có trụ sở đặt tại Paris, thành lập năm 1987
+là tập đoàn bán lẻ của Đức có trụ sở đặt tại Berlin, thành lập năm 1976
+là tập đoàn bán lẻ của Ý có trụ sở đặt tại Roma, thành lập năm 1954
+là tập đoàn bán lẻ của Nhật có trụ sở đặt tại Tokyo, thành lập năm 1967
+là tập đoàn bán lẻ của Viêt Nam có trụ sở đặt tại Hà Nội, thành lập năm 1934
+là tập đoàn bán lẻ của Canada có trụ sở đặt tại Ottawa, thành lập năm 1954
+là tập đoàn bán lẻ của Trung Quốc có trụ sở đặt tại Bắc Kinh, thành lập năm 1983
+-2
+https://laodong.vn/the-gioi/my-ra-toi-hau-thu-cho-nga-60-ngay-quyet-dinh-hiep-uoc-inf-644891.ldo
+https://baomoi.com/tong-bi-thu-nguyen-phu-trong/tc/104.epi
+http://plo.vn/tai-chinh-ngan-hang/scic-tho-phao-nhe-nhom-khi-dai-gia-tra-gan-7400-ty-dung-hen-806333.html
+http://cpv.org.vn/quoc-phong-an-ninh/ngon-co-dau-trong-phong-trao-thi-dua-quyet-thang-cua-quan-chung-hai-quan-506953.html
+https://thanhnien.vn/thoi-su/ha-noi-chinh-thuc-co-pho-trinh-van-bo-1030096.html
+http://vietnamnet.vn/vn/bat-dong-san/thi-truong/nam-long-bi-xu-phat-va-truy-thu-thue-492723.html
+https://media.thanhnien.vn/the-gioi/cho-sully-tien-biet-co-tong-thong-bush-122525.html
+http://anphehyra.pagedemo.me/anphehyra68/
+https://media.thanhnien.vn/the-gioi/israel-ra-quan-triet-pha-duong-ham-cua-hezbollah-122523.html
+https://infonet.vn/video-xem-lo-vu-khi-quan-doi-syria-vua-tich-thu-co-gi-ky-la-post283923.info
+https://news.zing.vn/5-thach-thuc-de-viet-nam-thoat-bay-thu-nhap-trung-binh-thap-post897490.html
+https://baotintuc.vn/the-gioi/tong-thong-trump-canh-bao-se-ap-thue-doi-voi-trung-quoc-neu-dam-phan-that-bai-20181205071710552.htm
+http://hanoimoi.com.vn/Tin-tuc/Xa-hoi/920640/ha-noi-9906-chi-tieu-bien-che-hanh-chinh-cac-co-quan-thanh-pho-quan-huyen-thi-xa-nam-2019
+https://vtc.vn/luat-ban-thang-san-khach-aff-cup-tuyen-viet-nam-thoai-mai-thai-lan-cho-voi-mung-d443550.html
+https://vov.vn/blog/vu-giao-vien-vut-quan-short-cua-hoc-sinh-vao-thung-rac-ai-dang-trach-847280.vov
+https://vov.vn/blog/vu-giao-vien-ai-dang-trach-847280.vov
+https://vietnambiz.vn/infographic-100-cong-ty-lon-nhat-the-gioi-thay-doi-trong-10-nam-qua-ra-sao-108100.html
+http://hoithao.koru.edu.vn/
+http://www.doisongphapluat.com/tin-tuc/phu-huynh-phat-tan-clip-xuc-pham-giao-vien-vi-tranh-cai-vi-chiec-quan-dui-a253762.html
+https://motthegioi.vn/the-thao-c-71/bong-den-my-dinh-tuyen-viet-nam-chua-tung-thang-ban-ket-tren-san-my-dinh-102475.html
+https://www.24h.com.vn/tin-tuc-trong-ngay/chuyen-la-hoa-dao-bat-ngo-bung-no-ram-ro-gia-200000-dong-canh-c46a1010651.html
+https://www.24h.com.vn/bong-da/video-ket-qua-tran-dau-watford-man-city-tai-mat-5-phut-cuoi-tran-c48a1010598.html
+https://www.24h.com.vn/tin-tuc-trong-ngay/hang-loat-xe-hop-tong-duoi-nhau-chi-vi-tranh-dong-dat-giua-duong-c46a1010683.html
+https://www.24h.com.vn/bong-da/hlv-dang-cap-the-gioi-eriksson-phat-khoc-vi-noi-bo-philippines-c48a1010565.html
+https://www.24h.com.vn/bong-da/buc-xuc-modric-doat-qua-bong-vang-lap-tuc-thoat-an-tu-que-nha-c48a1010584.html
+https://www.24h.com.vn/bong-da/truc-tiep-hop-bao-viet-nam-philippines-doi-thu-kho-tram-be-c48a1010004.html
+https://www.24h.com.vn/the-thao/nu-trong-tai-bi-a-dep-nhat-the-gioi-bi-duoi-viec-di-lam-cong-viec-nong-c101a1010521.html
+https://www.24h.com.vn/tin-tuc-trong-ngay/dat-ten-pho-trinh-van-bo-nguoi-hien-5000-luong-vang-cho-chinh-phu-c46a1010642.html
+https://www.24h.com.vn/tin-tuc-trong-ngay/vu-phuong-doi-pho-ban-pho-chu-tich-hdnd-phuong-siet-chat-quan-ly-sung-c46a1010633.html
+https://www.24h.com.vn/tin-tuc-trong-ngay/bi-thu-soc-son-nhan-gach-da-vi-noi-pha-viet-phu-thanh-chuong-rat-phi-c46a1010578.html
+https://www.24h.com.vn/tin-tuc-quoc-te/bat-duoc-tran-to-khung-khiep-o-indonesia-dai-8-met-than-to-hon-dui-nguoi-c415a1010547.html
+https://www.24h.com.vn/tai-chinh-bat-dong-san/nha-cap-4-dep-the-nay-bao-sao-co-gia-toi-33-ty-dong-c161a1010662.html
+https://www.24h.com.vn/tai-chinh-bat-dong-san/nha-cap-4-dep-the-nay-bao-sao-co-gia-toi-33-ty-dong-c161a1010662.html 
+https://www.24h.com.vn/thoi-trang/tat-ca-bo-vo-tinh-tin-don-cua-cau-thu-viet-da-aff-cup-do-sac-ao-tam-c78a1010589i378861.html#imgPageZone
+https://www.24h.com.vn/tin-tuc-quoc-te/cong-chua-dubai-mat-7-nam-len-ke-hoach-bo-tron-bi-bat-lai-nhu-phim-007-c415a1010660.html
+https://www.24h.com.vn/an-ninh-hinh-su/vu-to-trom-xe-bi-to-lai-giet-nguoi-chon-xac-on-lanh-loi-khai-cua-nhom-sat-thu-c51a1010644.html
+https://www.24h.com.vn/doi-song-showbiz/dieu-tra-lai-vu-sao-nu-bi-cuong-buc-hon-100-lan-ep-hau-ha-31-ong-lon-c729a1010639.html
+https://www.24h.com.vn/doi-song-showbiz/mc-thoi-su-moi-cua-vtv-lay-chong-thieu-gia-va-cuoc-song-dang-nguong-mo-c729a1010615.html
+https://www.24h.com.vn/doi-song-showbiz/duong-hong-loan-tu-ca-si-quan-nhau-lang-nuong-den-nu-hoang-bolero-c729a1010572.html
+https://www.24h.com.vn/doi-song-showbiz/nhung-bong-hong-danh-gia-tung-vuong-luoi-tinh-thanh-long-c729a1010569.html
+https://www.24h.com.vn/ban-tre-cuoc-song/doi-bo-cu-tra-lai-500-trieu-dong-nguoi-dan-ong-soc-khi-nhan-duoc-cau-tra-loi-c64a1010670.html
+https://www.24h.com.vn/ban-tre-cuoc-song/man-cau-hon-sang-chanh-nhat-the-gioi-khien-chi-em-phat-them-c64a1010654.html
+https://www.24h.com.vn/ban-tre-cuoc-song/cu-ong-u70-doi-sua-giay-khai-sinh-lui-lai-20-nam-de-de-hen-ho-c64a1010665.html
+https://www.24h.com.vn/ban-tre-cuoc-song/nam-tiep-vien-mua-cot-tren-may-bay-khien-hanh-khach-cuoi-te-ghe-c64a1010647.html
+https://www.24h.com.vn/the-thao/nu-trong-tai-bi-a-dep-nhat-the-gioi-bi-duoi-viec-di-lam-cong-viec-nong-c101a1010521.html
+https://www.24h.com.vn/the-thao/chan-dong-cau-thu-tom-tem-vo-hlv-con-dang-anh-khoe-chien-tich-c101a1010498.html
+https://www.24h.com.vn/the-thao/cao-thu-trung-quoc-pho-dien-kung-fu-bac-thay-dung-bung-thu-sat-nhon-c101a1010537.html
+https://www.24h.com.vn/giao-duc-du-hoc/nhat-ban-pho-hieu-truong-co-nguy-co-bi-duoi-viec-vi-lac-loi-vao-phong-tam-nu-c216a1010667.html
+https://www.24h.com.vn/giao-duc-du-hoc/an-do-hoc-sinh-tieu-hoc-khong-mang-cap-sach-qua-3-kg-c216a1010472.html
+https://www.24h.com.vn/giao-duc-du-hoc/ren-luyen-tri-nao-tang-chi-so-iq-voi-bo-6-cau-do-tri-tue-sau-c216a1010469.html
+https://www.24h.com.vn/thoi-trang-hi-tech/iphone-chinh-hang-tiep-tuc-ban-duoi-gia-niem-yet-c407a1010649.html
+https://www.24h.com.vn/thoi-trang-hi-tech/galaxy-s10-va-galaxy-s10-dep-ma-mi-iphone-xs-max-doi-day-c407a1010540.html
+https://www.24h.com.vn/thoi-trang-hi-tech/touch-id-se-duoc-hoi-sinh-tren-man-hinh-iphone-2019-c407a1010587.html
+https://www.24h.com.vn/cong-nghe-thong-tin/thue-bao-vinaphone-xem-truyen-hinh-tet-ga-lai-duoc-tang-data-c55a1010370.html
+https://www.24h.com.vn/cong-nghe-thong-tin/chuong-trinh-thay-pin-iphone-gia-re-cua-apple-se-ket-thuc-vao-ngay-31-12-c55a1010496.html
+-3
