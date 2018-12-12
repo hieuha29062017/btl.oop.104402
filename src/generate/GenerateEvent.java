@@ -54,7 +54,7 @@ public class GenerateEvent implements IGenerateData {
 		String id = name.replaceAll(" ", "_");
 		id = id + "_" + Integer.toString(idNumber, 8);
 			
-		Location lct = new Location(id, name, des, src);
+		Event lct = new Event(id, name, des, src);
 		
 		return lct;	
 	}
