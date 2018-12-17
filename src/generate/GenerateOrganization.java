@@ -5,7 +5,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
-
 import entity.Entity;
 import entity.Organization;
 import entity.Source;
@@ -42,7 +41,6 @@ public class GenerateOrganization implements IGenerateData {
 	}
 
 	public Entity generateData(int idNumber) {
-		// TODO Auto-generated method stub
 		Random rand = new Random();	
 
 		int pos = rand.nextInt(listOrganizationName.size());
