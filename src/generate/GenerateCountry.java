@@ -17,7 +17,7 @@ public class GenerateCountry implements IGenerateData {
 		BufferedReader inputStream = null;
 	
 		try{
-			inputStream = new BufferedReader(new FileReader("locationInfor.txt"));
+			inputStream = new BufferedReader(new FileReader("countryInfor.txt"));
 				
 			String vs;
 			while((vs = inputStream.readLine()) != null && !vs.equals("-1")){
