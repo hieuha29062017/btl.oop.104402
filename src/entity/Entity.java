@@ -5,6 +5,7 @@ public class Entity {
 	protected String name;
 	protected String description;
 	protected Source source;
+
 	
 	public Entity(String id, String name, String des, Source src){
 		this.identify = id;
@@ -12,14 +13,7 @@ public class Entity {
 		this.description = des;
 		this.source = src;
 	}
-	
-	public Entity(){
-		this.identify = "unknown";
-		this.name = "unknown";
-		this.description = "unknown";
-		this.source = new Source("unknown");
-	}
-	
+		
 	public String getID(){
 		return this.identify;
 	}

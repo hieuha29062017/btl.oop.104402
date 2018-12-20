@@ -85,6 +85,48 @@ Bac Kinh
 Kiev
 London
 Lisbon
+Buenos Aires
+Brasilia
+Ottawa
+Santiago
+Bogota
+San Jose
+Nassau
+Nuuk
+Ceyena
+La Habana
+Santo Domingo
+Quito
+Georgetown
+California
+Texas
+Florida
+North Carolina
+Michigan
+Hawaii
+Arizona
+New York
+Alaska
+Ohio
+Oregon
+Maryland
+Colorado
+Minnesota
+Alabama
+Missouri
+Maryland
+Utah
+Maine
+Mississippi
+Indiana
+Kentucky
+New Mexico
+Iowa
+Nevada
+Oklahoma
+Kansas
+Vermont 
+Idaho
 -1
 là một tỉnh thuộc vùng đông bắc Việt Nam
 là một tỉnh thuộc vùng đông bắc Việt Nam
@@ -102,6 +144,7 @@ là một thủ đô của nước thuộc Mỹ La-tinh
 là một thủ đô của nước thuộc Đông Nam Á
 là một thủ đô của nước thuộc Châu Á
 là một thủ đô của nước thuộc Châu Phi
+là một tiểu bang của Nước Hoa Kỳ
 -2
 https://news.zing.vn/du-lich-quanh-the-gioi-don-giang-sinh-trong-nhung-khach-san-noi-tieng-post894250.html
 https://news.zing.vn/9-dia-diem-khong-the-bo-qua-trong-hanh-trinh-thuong-ngoan-mua-dong-post895906.html

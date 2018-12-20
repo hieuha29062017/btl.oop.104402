@@ -254,6 +254,67 @@ Trương Thị Lâm Oanh
 Nguyễn Vân Anh
 Nguyễn Bắc Hà
 -1
+Tuổi : 40
+Tuổi : 42
+Tuổi : 29
+Tuổi : 30
+Tuổi : 31
+Tuổi : 32
+Tuổi : 33
+Tuổi : 34
+Tuổi : 35
+Tuổi : 36 
+Tuổi : 37 
+Tuổi : 38
+Tuổi : 39
+Tuổi : 50
+Tuổi : 55
+-2
+Bác sĩ
+Giáo sư
+Phó giáo sư
+Tiến sĩ
+Giáo viên
+Thương gia
+Thạc sĩ
+Kĩ sư
+Công nhân
+Nông dân
+Thợ may
+Thợ sửa xe đạp
+Thợ sửa xe máy
+Thợ sửa điện nước
+Nhân viên bán hàng
+Nhân viên marketing
+Nội trợ
+Kĩ sư phần mềm
+Lập trình viên
+Ngư dân
+Thủy thủ
+Công an 
+Bộ đội
+Biên phòng
+Kiểm lâm
+Nhà thiết kế
+Thợ cắt tóc
+Kiến trúc sư
+Game thủ chuyên nghiệp
+Huấn luyện viên thể hình
+Lao công
+Bảo vệ
+Vận động viên
+Thợ điện
+Ảo thuật gia
+Diễn viên
+Ca sĩ
+Đạo diễn
+Nhạc sĩ
+Nhà sản xuất âm nhạc
+Thợ mỏ
+Thợ cơ khí
+Youtuber
+Streamer
+-3
 Là tổ trưởng lớp 12A1-K49 Trường THPT Phụ Dực
 Là lớp trưởng lớp 12A2-K50 Trường THPT Trần Hưng Đạo
 Là chủ nhiệm lớp 11A1-K49 Trường THPT Phụ Dực
@@ -444,7 +505,7 @@ là một diễn viên, nhà sản xuất và doanh nhân người Mỹ. Là con
 nghệ danh Eminem (thường được cách điệu là EMINƎM), là một rapper, người viết bài hát, nhà sản xuất thu âm và diễn viên người Mỹ.
 hay còn được biết đến với nghệ danh Dr. Dre, là một nhà sản xuất thu âm, rapper, giám đốc thu âm, và diễn viên người Mỹ
 biệt danh "The Boss", là một ca sĩ và nhạc sĩ người Mỹ. Ông đã đi lưu diễn cùng nhóm The E Street Band từ năm 1972.
--2
+-4
 https://dantri.com.vn/the-gioi/cuu-tong-thong-my-george-hw-bush-qua-doi-20181201123942247.htm
 https://dantri.com.vn/kinh-doanh/ong-tran-dinh-thien-cong-nghe-40-ap-den-chi-mot-phan-mem-grab-dieu-hanh-ca-tram-nghin-xe-20181201165134316.htm
 https://dantri.com.vn/kinh-doanh/dinh-den-vu-nhom-sep-nu-quyen-luc-1-thoi-tan-ta-khong-the-tin-noi-20181128195546668.htm
@@ -473,4 +534,4 @@ https://vnexpress.net/tin-tuc/the-gioi/phan-tich/xu-huong-tranh-ban-cua-trump-ta
 https://vnexpress.net/tin-tuc/the-gioi/afghanistan-co-the-la-vung-chien-su-dau-tien-trump-toi-tham-3843370.html
 https://vnexpress.net/tin-tuc/the-gioi/nguoi-viet-5-chau/nhom-nguoi-viet-o-nam-phi-bi-cao-buoc-giet-40-con-su-tu-3846736.html
 https://vnexpress.net/tin-tuc/the-gioi/phan-tich/ukraine-lam-gi-khi-tuyen-bo-thiet-quan-luat-sau-vu-nga-bat-tau-chien-3847135.html
--3
+-5

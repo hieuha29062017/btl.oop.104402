@@ -11,6 +11,8 @@ import entity.*;
 public class GeneratePerson implements IGenerateData {
 
 	private static ArrayList<String> listPersonName = new ArrayList<String>();
+	private static ArrayList<String> listAge = new ArrayList<String>();
+	private static ArrayList<String> listJobName = new ArrayList<String>();
 	private static ArrayList<String> listDescription = new ArrayList<String>();
 	private static ArrayList<Source> listSource = new ArrayList<Source>();
 	
@@ -24,12 +26,17 @@ public class GeneratePerson implements IGenerateData {
 			while((vs = inputStream.readLine()) != null && !vs.equals("-1")){
 				listPersonName.add(vs);
 			}
-			
 			while((vs = inputStream.readLine()) != null && !vs.equals("-2")){
+				listAge.add(vs);
+			}
+			while((vs = inputStream.readLine()) != null && !vs.equals("-3")){
+				listJobName.add(vs);
+			}
+			while((vs = inputStream.readLine()) != null && !vs.equals("-4")){
 				listDescription.add(vs);
 			}
 			
-			while((vs = inputStream.readLine()) != null && !vs.equals("-3")){
+			while((vs = inputStream.readLine()) != null && !vs.equals("-5")){
 				Source temp = new Source(vs);
 				listSource.add(temp);
 			}
@@ -46,6 +53,12 @@ public class GeneratePerson implements IGenerateData {
 		int pos = rand.nextInt(listPersonName.size());
 		String name = listPersonName.get(pos);
 		
+		pos = rand.nextInt(listAge.size());
+		String age = listAge.get(pos);
+		
+		pos = rand.nextInt(listJobName.size());
+		String job = listJobName.get(pos);
+		
 		pos = rand.nextInt(listDescription.size());
 		String des = listDescription.get(pos);
 		
@@ -55,8 +68,25 @@ public class GeneratePerson implements IGenerateData {
 		String id = name.replaceAll(" ", "_");
 		id = id + "_" + Integer.toString(idNumber, 8);		
 		
-		Person person = new Person(id, name, des, src);
+		Person person = new Person(id, name, age, job, des, src);
 		
 		return person;
+	}
+	public static void main(String[] args) {
+		try{
+			GeneratePerson ps = new GeneratePerson();
+			Person pes = (Person)ps.generateData(1);
+			
+			System.out.println(pes.getName());
+			System.out.println(pes.getAge());
+			System.out.println(pes.getJob());
+			System.out.println(pes.getID());
+			System.out.println(pes.getDes());
+			System.out.println(pes.getSource().getLink());
+			System.out.println(pes.getSource().getDate());
+		}
+		catch(IOException ex){
+			
+		}
 	}
 }
