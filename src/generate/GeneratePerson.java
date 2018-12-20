@@ -72,21 +72,4 @@ public class GeneratePerson implements IGenerateData {
 		
 		return person;
 	}
-	public static void main(String[] args) {
-		try{
-			GeneratePerson ps = new GeneratePerson();
-			Person pes = (Person)ps.generateData(1);
-			
-			System.out.println(pes.getName());
-			System.out.println(pes.getAge());
-			System.out.println(pes.getJob());
-			System.out.println(pes.getID());
-			System.out.println(pes.getDes());
-			System.out.println(pes.getSource().getLink());
-			System.out.println(pes.getSource().getDate());
-		}
-		catch(IOException ex){
-			
-		}
-	}
 }
